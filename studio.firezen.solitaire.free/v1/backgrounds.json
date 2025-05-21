@@ -1,0 +1,148 @@
+{
+  "backgroundInfos": [
+    {
+      "id": 0,
+      "unlockLevel": 0,
+      "chargeType": "free",
+      "number": 0
+    },
+    {
+      "id": 1,
+      "unlockLevel": 0,
+      "chargeType": "free",
+      "number": 0
+    },
+    {
+      "id": 2,
+      "unlockLevel": 0,
+      "chargeType": "free",
+      "number": 0
+    },
+    {
+      "id": 3,
+      "unlockLevel": 0,
+      "chargeType": "free",
+      "number": 0
+    },
+    {
+      "id": 4,
+      "unlockLevel": 0,
+      "chargeType": "free",
+      "number": 0
+    },
+    {
+      "id": 5,
+      "unlockLevel": 0,
+      "chargeType": "free",
+      "number": 0
+    },
+    {
+      "id": 6,
+      "unlockLevel": 0,
+      "chargeType": "free",
+      "number": 0
+    },
+    {
+      "id": 7,
+      "unlockLevel": 0,
+      "chargeType": "free",
+      "number": 0
+    },
+    {
+      "id": 8,
+      "unlockLevel": 0,
+      "chargeType": "free",
+      "number": 0
+    },
+    {
+      "id": 9,
+      "unlockLevel": 0,
+      "chargeType": "free",
+      "number": 0
+    },
+    {
+      "id": 10,
+      "unlockLevel": 0,
+      "chargeType": "free",
+      "number": 0
+    },
+    {
+      "id": 11,
+      "unlockLevel": 0,
+      "chargeType": "ad",
+      "number": 1
+    },
+    {
+      "id": 12,
+      "unlockLevel": 0,
+      "chargeType": "ad",
+      "number": 1
+    },
+    {
+      "id": 13,
+      "unlockLevel": 0,
+      "chargeType": "ad",
+      "number": 1
+    },
+    {
+      "id": 14,
+      "unlockLevel": 0,
+      "chargeType": "coin",
+      "number": 100
+    },
+    {
+      "id": 15,
+      "unlockLevel": 0,
+      "chargeType": "coin",
+      "number": 100
+    },
+    {
+      "id": 16,
+      "unlockLevel": 0,
+      "chargeType": "ad",
+      "number": 1
+    },
+    {
+      "id": 17,
+      "unlockLevel": 0,
+      "chargeType": "coin",
+      "number": 200
+    },
+    {
+      "id": 18,
+      "unlockLevel": 0,
+      "chargeType": "coin",
+      "number": 200
+    },
+    {
+      "id": 19,
+      "unlockLevel": 30,
+      "chargeType": "coin",
+      "number": 300
+    },
+    {
+      "id": 20,
+      "unlockLevel": 30,
+      "chargeType": "coin",
+      "number": 300
+    },
+    {
+      "id": 21,
+      "unlockLevel": 50,
+      "chargeType": "coin",
+      "number": 500
+    },
+    {
+      "id": 22,
+      "unlockLevel": 50,
+      "chargeType": "coin",
+      "number": 500
+    },
+    {
+      "id": 23,
+      "unlockLevel": 70,
+      "chargeType": "coin",
+      "number": 700
+    }
+  ]
+}

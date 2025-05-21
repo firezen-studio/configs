@@ -1,0 +1,16 @@
+{
+  "cardfaces": [
+    {
+      "id": "0",
+      "unlockLevel": "0",
+      "chargeType": "free",
+      "number": "0"
+    },
+    {
+      "id": "1",
+      "unlockLevel": "0",
+      "chargeType": "ad",
+      "number": "1"
+    }
+  ]
+}

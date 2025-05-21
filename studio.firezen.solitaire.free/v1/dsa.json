@@ -1,0 +1,19 @@
+{
+  "a": {
+    "FreeCasual" : "0.98",
+    "FreeHeavy" : "0.9",
+    "FreeLoyal": "0.8",
+    "PaidNewbie" : "0.5",
+    "PaidNormal" : "0.3",
+    "PaidLoyal" : "0.1"
+  },
+
+  "b": {
+    "FreeCasual" : "0.98",
+    "FreeHeavy" : "0.9",
+    "FreeLoyal": "0.8",
+    "PaidNewbie" : "0.3",
+    "PaidNormal" : "0.2",
+    "PaidLoyal" : "0.1"
+  }
+}
