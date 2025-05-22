@@ -9,9 +9,9 @@
   },
 
   "b": {
-    "FreeCasual" : "0.50",
-    "FreeHeavy" : "0.45",
-    "FreeLoyal": "0.4",
+    "FreeCasual" : "0.98",
+    "FreeHeavy" : "0.80",
+    "FreeLoyal": "0.70",
     "PaidNewbie" : "0.3",
     "PaidNormal" : "0.2",
     "PaidLoyal" : "0.1"
